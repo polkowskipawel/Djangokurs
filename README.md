@@ -21,7 +21,7 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
-![Algorithm schema](./images/schema.jpg) 
+![GIT HUB](./images/schema.jpg) 
 
 ## Sources
 This app is inspired by Rando Kim book „Time of Your Life”
