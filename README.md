@@ -1,6 +1,6 @@
 ## Demo test Git
 
-Test project for learning Git, Pycharm, Python, Django 
+Project for learning Git, Pycharm, Python, Django 
 
 ## Table of contents
 * [General info](#general-info)
