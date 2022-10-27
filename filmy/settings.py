@@ -23,10 +23,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-cp51ij0!%sggovo@cgayv5#!y7dy(d^g(bgp%9@ad-46i0*!(r"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False    # False nie widać podgladu strony przy pisanym zle adresie w url
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["127.0.0.1"]
 
+#DEBUG = True
+#ALLOWED_HOSTS = []
 
 # Application definition
 
