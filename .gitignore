@@ -83,7 +83,8 @@ celerybeat-schedule
 # virtualenv
 venv/
 ENV/
-
+venv
+/venv/
 # Spyder project settings
 .spyderproject
 
@@ -100,8 +101,7 @@ ENV/
 [Ss]cripts
 pyvenv.cfg
 .venv
-venv
-/venv/
+
 pip-selfcheck.json
 
 ### JetBrains template
