@@ -16,7 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
-from filmyweb.views import test_response
+from filmyweb.views import wszystkie_filmy
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("filmy/",include('filmyweb.urls'))
