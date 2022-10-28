@@ -19,9 +19,10 @@ Project is created with:
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+#Porada ::: gitignore nie dziala:::
+git rm -r --cached .
+git add .
+git commit -m "aktualizacja plików z git ignore"  
 ```
 ![GIT HUB](images/schema.jpg) 
 
